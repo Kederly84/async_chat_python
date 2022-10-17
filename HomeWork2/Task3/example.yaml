@@ -1,0 +1,9 @@
+array:
+- first
+- second
+- third
+dict:
+  first_el: €
+  second_el: €€
+  third_el: €€€
+integer: 1
