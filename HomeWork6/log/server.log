@@ -1,0 +1,179 @@
+2022-11-11 14:18:00,895 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 14:18:00,895 INFO server Порт 7777 присвоен успешно 
+2022-11-11 14:18:00,895 INFO server Сервер готов к работе 
+2022-11-11 14:19:19,326 INFO server Сообщение получено 
+2022-11-11 14:19:19,326 INFO server {'action': 'presence', 'time': 1668165559.325904, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:19:19,326 INFO server Ответ успешно сформирован 
+2022-11-11 14:19:19,326 INFO server {'response': 200} 
+2022-11-11 14:19:19,326 INFO server Ответ отправлен 
+2022-11-11 14:19:19,326 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:26:48,502 INFO server Сообщение получено 
+2022-11-11 14:26:48,502 INFO server {'action': 'presence', 'time': 1668166008.502069, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:26:48,502 INFO server Ответ успешно сформирован 
+2022-11-11 14:26:48,502 INFO server {'response': 200} 
+2022-11-11 14:26:48,502 INFO server Ответ отправлен 
+2022-11-11 14:26:48,502 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:27:26,907 INFO server Сообщение получено 
+2022-11-11 14:27:26,907 INFO server {'action': 'presence', 'time': 1668166046.907697, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:27:26,908 INFO server Ответ успешно сформирован 
+2022-11-11 14:27:26,908 INFO server {'response': 200} 
+2022-11-11 14:27:26,908 INFO server Ответ отправлен 
+2022-11-11 14:27:26,908 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:30:29,315 INFO server Сообщение получено 
+2022-11-11 14:30:29,315 INFO server {'action': 'presence', 'time': 1668166229.315077, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:30:29,315 INFO server Ответ успешно сформирован 
+2022-11-11 14:30:29,315 INFO server {'response': 200} 
+2022-11-11 14:30:29,315 INFO server Ответ отправлен 
+2022-11-11 14:30:29,315 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:35:56,867 INFO server Сообщение получено 
+2022-11-11 14:35:56,867 INFO server {'action': 'presence', 'time': 1668166556.86703, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:35:56,867 INFO server Ответ успешно сформирован 
+2022-11-11 14:35:56,867 INFO server {'response': 200} 
+2022-11-11 14:35:56,867 INFO server Ответ отправлен 
+2022-11-11 14:35:56,867 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:36:40,076 INFO server Сообщение получено 
+2022-11-11 14:36:40,076 INFO server {'action': 'presence', 'time': 1668166600.076389, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:36:40,076 INFO server Ответ успешно сформирован 
+2022-11-11 14:36:40,076 INFO server {'response': 200} 
+2022-11-11 14:36:40,076 INFO server Ответ отправлен 
+2022-11-11 14:36:40,076 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:38:21,712 INFO server Сообщение получено 
+2022-11-11 14:38:21,713 INFO server {'action': 'presence', 'time': 1668166701.712685, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:38:21,713 INFO server Ответ успешно сформирован 
+2022-11-11 14:38:21,713 INFO server {'response': 200} 
+2022-11-11 14:38:21,713 INFO server Ответ отправлен 
+2022-11-11 14:38:21,713 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:42:11,865 INFO server Сообщение получено 
+2022-11-11 14:42:11,865 INFO server {'action': 'presence', 'time': 1668166931.865438, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:42:11,865 INFO server Ответ успешно сформирован 
+2022-11-11 14:42:11,865 INFO server {'response': 200} 
+2022-11-11 14:42:11,865 INFO server Ответ отправлен 
+2022-11-11 14:42:11,865 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:42:26,443 INFO server Сообщение получено 
+2022-11-11 14:42:26,443 INFO server {'action': 'presence', 'time': 1668166946.44291, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:42:26,443 INFO server Ответ успешно сформирован 
+2022-11-11 14:42:26,443 INFO server {'response': 200} 
+2022-11-11 14:42:26,443 INFO server Ответ отправлен 
+2022-11-11 14:42:26,443 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:45:49,726 INFO server Сообщение получено 
+2022-11-11 14:45:49,727 INFO server {'action': 'presence', 'time': 1668167149.726829, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:45:49,727 INFO server Ответ успешно сформирован 
+2022-11-11 14:45:49,727 INFO server {'response': 200} 
+2022-11-11 14:45:49,727 INFO server Ответ отправлен 
+2022-11-11 14:45:49,727 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:52:11,222 INFO server Сообщение получено 
+2022-11-11 14:52:11,222 INFO server {'action': 'presence', 'time': 1668167531.222209, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:52:11,222 INFO server Ответ успешно сформирован 
+2022-11-11 14:52:11,222 INFO server {'response': 200} 
+2022-11-11 14:52:11,222 INFO server Ответ отправлен 
+2022-11-11 14:52:11,222 INFO server Соединение с клиентом закрыто 
+2022-11-11 14:52:38,481 INFO server Сообщение получено 
+2022-11-11 14:52:38,481 INFO server {'action': 'presence', 'time': 1668167558.4811058, 'user': {'account_name': 'Guest'}} 
+2022-11-11 14:52:38,481 INFO server Ответ успешно сформирован 
+2022-11-11 14:52:38,481 INFO server {'response': 200} 
+2022-11-11 14:52:38,481 INFO server Ответ отправлен 
+2022-11-11 14:52:38,481 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:02:50,791 INFO server Сообщение получено 
+2022-11-11 15:02:50,791 INFO server {'action': 'presence', 'time': 1668168170.791303, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:02:50,791 INFO server Ответ успешно сформирован 
+2022-11-11 15:02:50,791 INFO server {'response': 200} 
+2022-11-11 15:02:50,791 INFO server Ответ отправлен 
+2022-11-11 15:02:50,791 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:06:33,823 INFO server Сообщение получено 
+2022-11-11 15:06:33,823 INFO server {'action': 'presence', 'time': 1668168393.822967, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:06:33,823 INFO server Ответ успешно сформирован 
+2022-11-11 15:06:33,823 INFO server {'response': 200} 
+2022-11-11 15:06:33,823 INFO server Ответ отправлен 
+2022-11-11 15:06:33,823 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:06:43,005 INFO log_utils функция addres(['server.py']) вызвана из функции main  
+2022-11-11 15:06:43,005 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:06:43,005 INFO log_utils функция port_check(['server.py']) вызвана из функции main  
+2022-11-11 15:06:43,005 INFO server Порт 7777 присвоен успешно 
+2022-11-11 15:29:04,500 INFO log_utils функция addres() вызвана из функции main  
+2022-11-11 15:29:10,620 INFO log_utils функция addres() вызвана из функции main  
+2022-11-11 15:30:49,704 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:30:49,707 INFO log_utils функция port_check() вызвана из функции main  
+2022-11-11 15:31:06,221 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:31:06,221 INFO server Порт 7777 присвоен успешно 
+2022-11-11 15:31:06,221 INFO server Сервер готов к работе 
+2022-11-11 15:31:16,354 INFO log_utils функция send_message() вызвана из функции main  
+2022-11-11 15:31:16,354 INFO log_utils функция get_message() вызвана из функции main  
+2022-11-11 15:33:15,891 INFO log_utils функция addres(['server.py']) вызвана из функции main  
+2022-11-11 15:33:15,891 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:33:15,891 INFO log_utils функция port_check(['server.py']) вызвана из функции main  
+2022-11-11 15:33:15,891 INFO server Порт 7777 присвоен успешно 
+2022-11-11 15:33:15,891 INFO server Сервер готов к работе 
+2022-11-11 15:33:32,770 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58566)>) вызвана из функции main  
+2022-11-11 15:33:32,770 INFO server Сообщение получено 
+2022-11-11 15:33:32,770 INFO server {'action': 'presence', 'time': 1668170012.7700212, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:33:32,770 INFO server Ответ успешно сформирован 
+2022-11-11 15:33:32,770 INFO server {'response': 200} 
+2022-11-11 15:33:32,770 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58566)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:33:32,770 INFO server Ответ отправлен 
+2022-11-11 15:33:32,770 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:34:59,188 INFO log_utils функция addres(['server.py']) вызвана из функции main  
+2022-11-11 15:34:59,188 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:34:59,188 INFO log_utils функция port_check(['server.py']) вызвана из функции main  
+2022-11-11 15:34:59,188 INFO server Порт 7777 присвоен успешно 
+2022-11-11 15:34:59,188 INFO server Сервер готов к работе 
+2022-11-11 15:35:08,560 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58567)>) вызвана из функции main  
+2022-11-11 15:35:08,561 INFO server Сообщение получено 
+2022-11-11 15:35:08,561 INFO server {'action': 'presence', 'time': 1668170108.560805, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:35:08,561 INFO server Ответ успешно сформирован 
+2022-11-11 15:35:08,561 INFO server {'response': 200} 
+2022-11-11 15:35:08,561 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58567)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:35:08,561 INFO server Ответ отправлен 
+2022-11-11 15:35:08,561 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:37:29,916 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58568)>) вызвана из функции main  
+2022-11-11 15:37:29,917 INFO server Сообщение получено 
+2022-11-11 15:37:29,917 INFO server {'action': 'presence', 'time': 1668170249.916707, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:37:29,917 INFO server Ответ успешно сформирован 
+2022-11-11 15:37:29,917 INFO server {'response': 200} 
+2022-11-11 15:37:29,917 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58568)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:37:29,917 INFO server Ответ отправлен 
+2022-11-11 15:37:29,917 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:38:51,455 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58569)>) вызвана из функции main  
+2022-11-11 15:38:51,455 INFO server Сообщение получено 
+2022-11-11 15:38:51,455 INFO server {'action': 'presence', 'time': 1668170331.454798, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:38:51,455 INFO server Ответ успешно сформирован 
+2022-11-11 15:38:51,455 INFO server {'response': 200} 
+2022-11-11 15:38:51,455 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58569)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:38:51,455 INFO server Ответ отправлен 
+2022-11-11 15:38:51,455 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:40:08,556 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58570)>) вызвана из функции main  
+2022-11-11 15:40:08,556 INFO server Сообщение получено 
+2022-11-11 15:40:08,556 INFO server {'action': 'presence', 'time': 1668170408.5566049, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:40:08,556 INFO server Ответ успешно сформирован 
+2022-11-11 15:40:08,556 INFO server {'response': 200} 
+2022-11-11 15:40:08,557 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58570)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:40:08,557 INFO server Ответ отправлен 
+2022-11-11 15:40:08,557 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:48:08,090 INFO log_utils функция addres(['server.py']) вызвана из функции main  
+2022-11-11 15:48:08,090 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-11 15:48:08,090 INFO log_utils функция port_check(['server.py']) вызвана из функции main  
+2022-11-11 15:48:08,090 INFO server Порт 7777 присвоен успешно 
+2022-11-11 15:48:08,091 INFO server Сервер готов к работе 
+2022-11-11 15:48:15,357 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58618)>) вызвана из функции main  
+2022-11-11 15:48:15,357 INFO server Сообщение получено 
+2022-11-11 15:48:15,357 INFO server {'action': 'presence', 'time': 1668170895.356999, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:48:15,357 INFO server Ответ успешно сформирован 
+2022-11-11 15:48:15,357 INFO server {'response': 200} 
+2022-11-11 15:48:15,357 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58618)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:48:15,357 INFO server Ответ отправлен 
+2022-11-11 15:48:15,357 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:48:16,770 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58619)>) вызвана из функции main  
+2022-11-11 15:48:16,771 INFO server Сообщение получено 
+2022-11-11 15:48:16,771 INFO server {'action': 'presence', 'time': 1668170896.770872, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:48:16,771 INFO server Ответ успешно сформирован 
+2022-11-11 15:48:16,771 INFO server {'response': 200} 
+2022-11-11 15:48:16,771 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58619)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:48:16,771 INFO server Ответ отправлен 
+2022-11-11 15:48:16,771 INFO server Соединение с клиентом закрыто 
+2022-11-11 15:48:18,080 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58620)>) вызвана из функции main  
+2022-11-11 15:48:18,080 INFO server Сообщение получено 
+2022-11-11 15:48:18,080 INFO server {'action': 'presence', 'time': 1668170898.080383, 'user': {'account_name': 'Guest'}} 
+2022-11-11 15:48:18,080 INFO server Ответ успешно сформирован 
+2022-11-11 15:48:18,080 INFO server {'response': 200} 
+2022-11-11 15:48:18,080 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58620)>, {'response': 200}) вызвана из функции main  
+2022-11-11 15:48:18,080 INFO server Ответ отправлен 
+2022-11-11 15:48:18,080 INFO server Соединение с клиентом закрыто 
