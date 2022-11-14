@@ -1,13 +1,13 @@
 import inspect
 import sys
+import traceback
 from functools import wraps
 
-from . import client_log_config
-from . import server_log_config
+from .client_log_config import client_log
+from .server_log_config import server_log
 
 
 def log(func):
-
     @wraps(func)
     def inner(*args, **kwargs):
         client = False
@@ -16,7 +16,7 @@ def log(func):
             client = True
             server = False
         arg = ', '.join(list(map(str, args)) + [f'{key}={val}' for key, val in kwargs.items()])
-        msg = f'функция {func.__name__}({arg}) вызвана из функции {inspect.stack()[1].function} '
+        msg = f'функция {func.__name__}({arg}) Вызов из модуля {func.__module__}. Вызов из функции {traceback.format_stack()[0].strip().split()[-1]}. Вызов из функции {inspect.stack()[1][3]}'
         write_log(client, server, msg)
         return func(*args, **kwargs)
 
@@ -25,6 +25,6 @@ def log(func):
 
 def write_log(client: bool, server: bool, message: str) -> None:
     if client:
-        client_log_config.client_log.info(message)
+        client_log.info(message)
     if server:
-        server_log_config.server_log.info(message)
+        server_log.info(message)

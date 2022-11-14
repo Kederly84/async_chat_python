@@ -1,5 +1,7 @@
 import logging
 import os.path
+import sys
+sys.path.append('../')
 
 client_log = logging.getLogger('client')
 
