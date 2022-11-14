@@ -1,0 +1,29 @@
+2022-11-14 21:56:28,131 INFO log_utils функция addres(['server.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:28,131 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-14 21:56:28,131 INFO log_utils функция port_check(['server.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:28,131 INFO server Порт 7777 присвоен успешно 
+2022-11-14 21:56:28,131 INFO server Сервер готов к работе 
+2022-11-14 21:56:31,263 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64194)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,263 INFO server Сообщение получено 
+2022-11-14 21:56:31,263 INFO server {'action': 'presence', 'time': 1668452191.26277, 'user': {'account_name': 'Guest'}} 
+2022-11-14 21:56:31,263 INFO server Ответ успешно сформирован 
+2022-11-14 21:56:31,263 INFO server {'response': 200} 
+2022-11-14 21:56:31,263 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64194)>, {'response': 200}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,263 INFO server Ответ отправлен 
+2022-11-14 21:56:31,263 INFO server Соединение с клиентом закрыто 
+2022-11-14 21:56:33,328 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64195)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,328 INFO server Сообщение получено 
+2022-11-14 21:56:33,328 INFO server {'action': 'presence', 'time': 1668452193.3284109, 'user': {'account_name': 'Guest'}} 
+2022-11-14 21:56:33,328 INFO server Ответ успешно сформирован 
+2022-11-14 21:56:33,328 INFO server {'response': 200} 
+2022-11-14 21:56:33,329 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64195)>, {'response': 200}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,329 INFO server Ответ отправлен 
+2022-11-14 21:56:33,329 INFO server Соединение с клиентом закрыто 
+2022-11-14 21:56:34,523 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64196)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,523 INFO server Сообщение получено 
+2022-11-14 21:56:34,523 INFO server {'action': 'presence', 'time': 1668452194.523082, 'user': {'account_name': 'Guest'}} 
+2022-11-14 21:56:34,523 INFO server Ответ успешно сформирован 
+2022-11-14 21:56:34,523 INFO server {'response': 200} 
+2022-11-14 21:56:34,523 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 64196)>, {'response': 200}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,523 INFO server Ответ отправлен 
+2022-11-14 21:56:34,523 INFO server Соединение с клиентом закрыто 
