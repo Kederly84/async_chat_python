@@ -1,0 +1,50 @@
+2022-11-14 21:51:56,592 INFO log_utils функция addres(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:56,592 INFO log_utils функция port_check(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:56,592 INFO client Соединение с сервером установлено 
+2022-11-14 21:51:56,592 INFO client Сообщение {'action': 'presence', 'time': 1668451916.59264, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-14 21:51:56,592 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64180), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668451916.59264, 'user': {'account_name': 'Guest'}}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:56,592 INFO client None 
+2022-11-14 21:51:56,592 INFO client Запрос отправлен 
+2022-11-14 21:51:56,592 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64180), raddr=('127.0.0.1', 7777)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:56,593 INFO client Ответ получен 
+2022-11-14 21:51:56,593 INFO client Ответ 200 : OK успешно обработан 
+2022-11-14 21:51:59,557 INFO log_utils функция addres(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:59,558 INFO log_utils функция port_check(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:59,558 INFO client Соединение с сервером установлено 
+2022-11-14 21:51:59,558 INFO client Сообщение {'action': 'presence', 'time': 1668451919.5585148, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-14 21:51:59,558 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64181), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668451919.5585148, 'user': {'account_name': 'Guest'}}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:59,558 INFO client None 
+2022-11-14 21:51:59,558 INFO client Запрос отправлен 
+2022-11-14 21:51:59,558 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64181), raddr=('127.0.0.1', 7777)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:51:59,559 INFO client Ответ получен 
+2022-11-14 21:51:59,559 INFO client Ответ 200 : OK успешно обработан 
+2022-11-14 21:56:31,261 INFO log_utils функция addres(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,262 INFO log_utils функция port_check(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,262 INFO client Соединение с сервером установлено 
+2022-11-14 21:56:31,262 INFO client Сообщение {'action': 'presence', 'time': 1668452191.26277, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-14 21:56:31,262 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64194), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668452191.26277, 'user': {'account_name': 'Guest'}}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,263 INFO client None 
+2022-11-14 21:56:31,263 INFO client Запрос отправлен 
+2022-11-14 21:56:31,263 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64194), raddr=('127.0.0.1', 7777)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:31,263 INFO client Ответ получен 
+2022-11-14 21:56:31,263 INFO client Ответ 200 : OK успешно обработан 
+2022-11-14 21:56:33,327 INFO log_utils функция addres(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,327 INFO log_utils функция port_check(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,328 INFO client Соединение с сервером установлено 
+2022-11-14 21:56:33,328 INFO client Сообщение {'action': 'presence', 'time': 1668452193.3284109, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-14 21:56:33,328 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64195), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668452193.3284109, 'user': {'account_name': 'Guest'}}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,328 INFO client None 
+2022-11-14 21:56:33,328 INFO client Запрос отправлен 
+2022-11-14 21:56:33,328 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64195), raddr=('127.0.0.1', 7777)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:33,329 INFO client Ответ получен 
+2022-11-14 21:56:33,329 INFO client Ответ 200 : OK успешно обработан 
+2022-11-14 21:56:34,522 INFO log_utils функция addres(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,522 INFO log_utils функция port_check(['client.py']) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,523 INFO client Соединение с сервером установлено 
+2022-11-14 21:56:34,523 INFO client Сообщение {'action': 'presence', 'time': 1668452194.523082, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-14 21:56:34,523 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64196), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668452194.523082, 'user': {'account_name': 'Guest'}}) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,523 INFO client None 
+2022-11-14 21:56:34,523 INFO client Запрос отправлен 
+2022-11-14 21:56:34,523 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 64196), raddr=('127.0.0.1', 7777)>) Вызов из модуля utils. Вызов из функции main(). Вызов из функции main 
+2022-11-14 21:56:34,523 INFO client Ответ получен 
+2022-11-14 21:56:34,523 INFO client Ответ 200 : OK успешно обработан 
