@@ -1,0 +1,17 @@
+2022-11-15 15:09:50,067 INFO log_utils функция addres(['server.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:09:50,067 INFO server Адрес 127.0.0.1 присвоен успешно 
+2022-11-15 15:09:50,067 INFO log_utils функция port_check(['server.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:09:50,067 INFO server Порт 7777 присвоен успешно 
+2022-11-15 15:09:50,067 INFO server Сервер готов к работе 
+2022-11-15 15:10:52,388 INFO client Адрес 127.0.0.1 присвоен успешно 
+2022-11-15 15:10:52,388 INFO client Порт 7777 присвоен успешно 
+2022-11-15 15:11:15,216 INFO client Адрес 127.0.0.1 присвоен успешно 
+2022-11-15 15:11:15,216 INFO client Порт 7777 присвоен успешно 
+2022-11-15 15:13:05,995 INFO log_utils функция get_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50524)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,996 INFO server Сообщение получено 
+2022-11-15 15:13:05,996 INFO server {'action': 'presence', 'time': 1668514385.995498, 'user': {'account_name': 'Guest'}} 
+2022-11-15 15:13:05,996 INFO server Ответ успешно сформирован 
+2022-11-15 15:13:05,996 INFO server {'response': 200} 
+2022-11-15 15:13:05,996 INFO log_utils функция send_message(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50524)>, {'response': 200}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,996 INFO server Ответ отправлен 
+2022-11-15 15:13:05,996 INFO server Соединение с клиентом закрыто 

@@ -1,0 +1,704 @@
+2022-11-15 15:10:52,388 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:10:52,388 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:11:15,216 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:11:15,216 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,994 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,995 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,995 INFO client Соединение с сервером установлено 
+2022-11-15 15:13:05,995 INFO client Сообщение {'action': 'presence', 'time': 1668514385.995498, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-15 15:13:05,995 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50524), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668514385.995498, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,995 INFO client None 
+2022-11-15 15:13:05,995 INFO client Запрос отправлен 
+2022-11-15 15:13:05,995 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50524), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-15 15:13:05,996 INFO client Ответ получен 
+2022-11-15 15:13:05,996 INFO client Ответ 200 : OK успешно обработан 
+2022-11-16 15:24:32,113 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:32,114 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:32,115 INFO log_utils функция client_mode(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:32,115 INFO client Соединение с сервером установлено 
+2022-11-16 15:24:32,115 INFO client Сообщение {'action': 'presence', 'time': 1668601472.115407, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:24:32,115 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51890), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601472.115407, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:32,115 INFO client Запрос отправлен 
+2022-11-16 15:24:32,116 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51890), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:47,904 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:47,904 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:47,904 INFO log_utils функция client_mode(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:47,905 INFO client Соединение с сервером установлено 
+2022-11-16 15:24:47,905 INFO client Сообщение {'action': 'presence', 'time': 1668601487.905092, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:24:47,905 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51891), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601487.905092, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:24:47,905 INFO client Запрос отправлен 
+2022-11-16 15:24:47,905 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51891), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:25:13,609 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:25:13,609 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:25:13,609 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:25:13,609 ERROR client Указан некорректныый режим работы 
+2022-11-16 15:27:14,522 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:27:14,522 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:27:14,522 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:27:14,522 ERROR client Указан некорректныый режим работы 
+2022-11-16 15:28:19,789 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:19,789 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:19,789 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:19,789 ERROR client Указан некорректныый режим работы send 
+2022-11-16 15:28:52,616 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:52,617 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:52,617 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:52,617 INFO client Соединение с сервером установлено 
+2022-11-16 15:28:52,617 INFO client Сообщение {'action': 'presence', 'time': 1668601732.617559, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:28:52,617 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51892), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601732.617559, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:28:52,617 INFO client Запрос отправлен 
+2022-11-16 15:28:52,617 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51892), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:29:41,440 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:29:41,441 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:29:41,441 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:29:41,441 INFO client Соединение с сервером установлено 
+2022-11-16 15:29:41,441 INFO client Сообщение {'action': 'presence', 'time': 1668601781.4415848, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:29:41,441 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51893), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601781.4415848, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:29:41,441 INFO client Запрос отправлен 
+2022-11-16 15:29:41,441 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51893), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:30:27,009 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:30:27,009 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:30:27,009 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:30:27,010 INFO client Соединение с сервером установлено 
+2022-11-16 15:30:27,010 INFO client Сообщение {'action': 'presence', 'time': 1668601827.0101771, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:30:27,010 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51894), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601827.0101771, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:30:27,010 INFO client Запрос отправлен 
+2022-11-16 15:30:27,010 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51894), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:33:14,860 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:33:14,861 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:33:14,861 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:33:14,861 INFO client Соединение с сервером установлено 
+2022-11-16 15:33:14,861 INFO client Сообщение {'action': 'presence', 'time': 1668601994.861496, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:33:14,861 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51895), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668601994.861496, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:33:14,861 INFO client Запрос отправлен 
+2022-11-16 15:33:14,861 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51895), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:14,436 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:14,436 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:14,436 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:14,437 INFO client Соединение с сервером установлено 
+2022-11-16 15:34:14,437 INFO client Сообщение {'action': 'presence', 'time': 1668602054.43723, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:34:14,437 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51896), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602054.43723, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:14,437 INFO client Запрос отправлен 
+2022-11-16 15:34:14,437 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51896), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:35,237 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:35,237 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:35,237 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:35,238 INFO client Соединение с сервером установлено 
+2022-11-16 15:34:35,238 INFO client Сообщение {'action': 'presence', 'time': 1668602075.238323, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:34:35,238 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51897), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602075.238323, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:35,238 INFO client Запрос отправлен 
+2022-11-16 15:34:35,238 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51897), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:55,946 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:55,946 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:55,947 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:55,947 INFO client Соединение с сервером установлено 
+2022-11-16 15:34:55,947 INFO client Сообщение {'action': 'presence', 'time': 1668602095.947517, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:34:55,947 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51898), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602095.947517, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:34:55,947 INFO client Запрос отправлен 
+2022-11-16 15:34:55,947 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51898), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:41:56,187 ERROR client Expecting value: line 1 column 1 (char 0) 
+2022-11-16 15:41:56,187 ERROR client Expecting value: line 1 column 1 (char 0) 
+2022-11-16 15:43:28,272 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:28,273 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:28,273 INFO log_utils функция client_mode(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:28,273 INFO client Соединение с сервером установлено 
+2022-11-16 15:43:28,273 INFO client Сообщение {'action': 'presence', 'time': 1668602608.2735648, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:43:28,273 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51899), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602608.2735648, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:28,273 INFO client Запрос отправлен 
+2022-11-16 15:43:28,273 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51899), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,031 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,031 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,031 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,032 INFO client Соединение с сервером установлено 
+2022-11-16 15:43:54,032 INFO client Сообщение {'action': 'presence', 'time': 1668602634.03231, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:43:54,032 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51900), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602634.03231, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,032 INFO client Запрос отправлен 
+2022-11-16 15:43:54,032 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51900), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:43:54,535 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51900), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:09,859 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:09,860 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:09,860 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:09,860 INFO client Соединение с сервером установлено 
+2022-11-16 15:44:09,860 INFO client Сообщение {'action': 'presence', 'time': 1668602649.8605142, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:44:09,860 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51901), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602649.8605142, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:09,860 INFO client Запрос отправлен 
+2022-11-16 15:44:09,860 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51901), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:10,363 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51901), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:15,972 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:15,972 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:15,972 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:15,973 INFO client Соединение с сервером установлено 
+2022-11-16 15:44:15,973 INFO client Сообщение {'action': 'presence', 'time': 1668602655.973293, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:44:15,973 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51902), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602655.973293, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:15,973 INFO client Запрос отправлен 
+2022-11-16 15:44:15,973 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51902), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:44:23,922 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51902), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1668602663.921379, 'account_name': 'Guest', 'message text': 'Test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,454 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,455 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,455 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,455 INFO client Соединение с сервером установлено 
+2022-11-16 15:46:10,455 INFO client Сообщение {'action': 'presence', 'time': 1668602770.455605, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:46:10,455 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51903), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602770.455605, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,455 INFO client Запрос отправлен 
+2022-11-16 15:46:10,455 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51903), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:10,958 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51903), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:14,679 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:14,679 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:14,679 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:14,679 INFO client Соединение с сервером установлено 
+2022-11-16 15:46:14,679 INFO client Сообщение {'action': 'presence', 'time': 1668602774.679785, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:46:14,679 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51904), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602774.679785, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:14,679 INFO client Запрос отправлен 
+2022-11-16 15:46:14,680 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51904), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:15,182 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51904), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:18,976 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:18,976 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:18,976 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:18,977 INFO client Соединение с сервером установлено 
+2022-11-16 15:46:18,977 INFO client Сообщение {'action': 'presence', 'time': 1668602778.9771872, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:46:18,977 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51905), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602778.9771872, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:18,977 INFO client Запрос отправлен 
+2022-11-16 15:46:18,977 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51905), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:25,846 ERROR client Соединение с сервером было потеряно 
+2022-11-16 15:46:32,588 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:32,588 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:32,588 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:32,589 INFO client Соединение с сервером установлено 
+2022-11-16 15:46:32,589 INFO client Сообщение {'action': 'presence', 'time': 1668602792.5891452, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:46:32,589 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51906), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602792.5891452, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:32,589 INFO client Запрос отправлен 
+2022-11-16 15:46:32,589 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51906), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:46:43,063 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51906), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1668602803.0622442, 'account_name': 'Guest', 'message text': 'Тестовое сообщение'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,412 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,412 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,412 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,412 INFO client Соединение с сервером установлено 
+2022-11-16 15:48:50,413 INFO client Сообщение {'action': 'presence', 'time': 1668602930.4129899, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:48:50,413 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51907), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602930.4129899, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,413 INFO client Запрос отправлен 
+2022-11-16 15:48:50,413 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51907), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:50,917 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51907), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,420 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,420 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,420 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,421 INFO client Соединение с сервером установлено 
+2022-11-16 15:48:55,421 INFO client Сообщение {'action': 'presence', 'time': 1668602935.4211562, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:48:55,421 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51908), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602935.4211562, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,421 INFO client Запрос отправлен 
+2022-11-16 15:48:55,421 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51908), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:48:55,924 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51908), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:00,438 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:00,438 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:00,438 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:00,438 INFO client Соединение с сервером установлено 
+2022-11-16 15:49:00,438 INFO client Сообщение {'action': 'presence', 'time': 1668602940.438739, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:49:00,438 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51909), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668602940.438739, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:00,438 INFO client Запрос отправлен 
+2022-11-16 15:49:00,439 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51909), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:49:07,937 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51909), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1668602947.936468, 'account_name': 'Guest', 'message text': 'Тестовое сообщение'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:02,629 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:02,629 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:02,629 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:02,629 INFO client Соединение с сервером установлено 
+2022-11-16 15:51:02,629 INFO client Сообщение {'action': 'presence', 'time': 1668603062.629786, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:51:02,629 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51910), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668603062.629786, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:02,629 INFO client Запрос отправлен 
+2022-11-16 15:51:02,630 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51910), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:03,132 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51910), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:05,818 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:05,818 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:05,818 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:05,818 INFO client Соединение с сервером установлено 
+2022-11-16 15:51:05,819 INFO client Сообщение {'action': 'presence', 'time': 1668603065.819032, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:51:05,819 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51911), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668603065.819032, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:05,819 INFO client Запрос отправлен 
+2022-11-16 15:51:05,819 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51911), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:06,321 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51911), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:09,630 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:09,630 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:09,630 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:09,630 INFO client Соединение с сервером установлено 
+2022-11-16 15:51:09,630 INFO client Сообщение {'action': 'presence', 'time': 1668603069.630752, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-16 15:51:09,630 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51912), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668603069.630752, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:09,630 INFO client Запрос отправлен 
+2022-11-16 15:51:09,631 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51912), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-16 15:51:17,943 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51912), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1668603077.942415, 'account_name': 'Guest', 'message text': 'Тестовое сообщение'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,312 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,313 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,313 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,313 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:08,313 INFO client Сообщение {'action': 'presence', 'time': 1668707168.3135529, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:08,313 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62677), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707168.3135529, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,313 INFO client Запрос отправлен 
+2022-11-17 20:46:08,313 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62677), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:08,816 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62677), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,352 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,352 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,352 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,352 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:15,352 INFO client Сообщение {'action': 'presence', 'time': 1668707175.3528461, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:15,352 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62678), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707175.3528461, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,353 INFO client Запрос отправлен 
+2022-11-17 20:46:15,353 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62678), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:15,855 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62678), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:22,713 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:22,713 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:22,713 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:22,714 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:22,714 INFO client Сообщение {'action': 'presence', 'time': 1668707182.714143, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:22,714 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62681), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707182.714143, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:22,714 INFO client Запрос отправлен 
+2022-11-17 20:46:22,714 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62681), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:23,216 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62681), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:27,261 INFO log_utils функция addres(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:27,262 INFO log_utils функция port_check(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:27,262 INFO log_utils функция client_mode(['client.py']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:27,262 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:27,262 INFO client Сообщение {'action': 'presence', 'time': 1668707187.262582, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:27,262 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62682), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707187.262582, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:27,262 INFO client Запрос отправлен 
+2022-11-17 20:46:27,262 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62682), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,223 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,223 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,224 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,224 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:35,224 INFO client Сообщение {'action': 'presence', 'time': 1668707195.224499, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:35,224 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62683), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707195.224499, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,224 INFO client Запрос отправлен 
+2022-11-17 20:46:35,224 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62683), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:35,727 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62683), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,056 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,057 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,057 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,057 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:43,057 INFO client Сообщение {'action': 'presence', 'time': 1668707203.057579, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:43,057 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62684), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707203.057579, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,057 INFO client Запрос отправлен 
+2022-11-17 20:46:43,057 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62684), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:43,560 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62684), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:49,648 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:49,650 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:49,650 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:49,650 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:49,650 INFO client Сообщение {'action': 'presence', 'time': 1668707209.650605, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:49,650 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62685), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707209.650605, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:49,650 INFO client Запрос отправлен 
+2022-11-17 20:46:49,650 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62685), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:50,154 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62685), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:56,621 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:56,621 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:56,622 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:56,622 INFO client Соединение с сервером установлено 
+2022-11-17 20:46:56,622 INFO client Сообщение {'action': 'presence', 'time': 1668707216.6224551, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:46:56,622 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62686), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707216.6224551, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:56,622 INFO client Запрос отправлен 
+2022-11-17 20:46:56,622 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62686), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:46:57,125 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62686), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:04,810 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:04,810 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:04,810 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:04,811 INFO client Соединение с сервером установлено 
+2022-11-17 20:47:04,811 INFO client Сообщение {'action': 'presence', 'time': 1668707224.8110468, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:47:04,811 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62701), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707224.8110468, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:04,811 INFO client Запрос отправлен 
+2022-11-17 20:47:04,811 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62701), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:05,313 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62701), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,179 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,180 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,180 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,180 INFO client Соединение с сервером установлено 
+2022-11-17 20:47:13,180 INFO client Сообщение {'action': 'presence', 'time': 1668707233.1805282, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:47:13,180 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62704), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707233.1805282, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,180 INFO client Запрос отправлен 
+2022-11-17 20:47:13,180 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62704), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:13,683 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62704), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,241 INFO log_utils функция addres(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,241 INFO log_utils функция port_check(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,241 INFO log_utils функция client_mode(['client.py', '-m', 'listen']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,241 INFO client Соединение с сервером установлено 
+2022-11-17 20:47:21,241 INFO client Сообщение {'action': 'presence', 'time': 1668707241.241979, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:47:21,242 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62705), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707241.241979, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,242 INFO client Запрос отправлен 
+2022-11-17 20:47:21,242 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62705), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:21,744 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62705), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:25,042 INFO log_utils функция addres(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:25,043 INFO log_utils функция port_check(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:25,043 INFO log_utils функция client_mode(['client.py', '-m', 'send']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:25,043 INFO client Соединение с сервером установлено 
+2022-11-17 20:47:25,043 INFO client Сообщение {'action': 'presence', 'time': 1668707245.0435772, 'user': {'account_name': 'Guest'}} сформировано 
+2022-11-17 20:47:25,043 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62706), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668707245.0435772, 'user': {'account_name': 'Guest'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:25,043 INFO client Запрос отправлен 
+2022-11-17 20:47:25,043 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62706), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-17 20:47:37,829 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62706), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'time': 1668707257.8283021, 'account_name': 'Guest', 'message text': 'Я пишу очень большой текст'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:16,353 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:16,354 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:16,354 INFO client Соединение с сервером установлено 
+2022-11-20 12:32:16,354 INFO client Сообщение {'action': 'presence', 'time': 1668936736.3548968, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 12:32:16,355 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50341), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668936736.3548968, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:16,355 INFO client Запрос отправлен 
+2022-11-20 12:32:16,355 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50341), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:16,860 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50341), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 12:32:33,812 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:33,812 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:33,813 INFO client Соединение с сервером установлено 
+2022-11-20 12:32:33,813 INFO client Сообщение {'action': 'presence', 'time': 1668936753.813139, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 12:32:33,813 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50342), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668936753.813139, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:33,813 INFO client Запрос отправлен 
+2022-11-20 12:32:33,813 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50342), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 12:32:34,318 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50342), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 12:32:51,055 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50341), raddr=('127.0.0.1', 7777)>, {'client': 'Guest2', 'mess': 'Тест 3'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:02:26,487 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:26,488 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:26,488 INFO client Соединение с сервером установлено 
+2022-11-20 20:02:26,488 INFO client Сообщение {'action': 'presence', 'time': 1668963746.488748, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:02:26,488 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50784), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668963746.488748, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:26,488 INFO client Запрос отправлен 
+2022-11-20 20:02:26,489 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50784), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:26,994 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50784), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:02:30,085 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:30,085 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:30,086 INFO client Соединение с сервером установлено 
+2022-11-20 20:02:30,086 INFO client Сообщение {'action': 'presence', 'time': 1668963750.086285, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:02:30,086 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50785), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668963750.086285, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:30,086 INFO client Запрос отправлен 
+2022-11-20 20:02:30,086 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50785), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:02:30,590 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50785), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:03:02,336 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50784), raddr=('127.0.0.1', 7777)>, {'client': 'Guest2', 'mess': 'Test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:13:41,418 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:13:41,419 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:13:41,419 INFO client Соединение с сервером установлено 
+2022-11-20 20:13:41,419 INFO client Сообщение {'action': 'presence', 'time': 1668964421.4193642, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:13:41,419 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964421.4193642, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:13:41,419 INFO client Запрос отправлен 
+2022-11-20 20:13:41,419 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:13:41,925 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:13:56,510 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 7777)>, {'client': 'Guest2', 'mess': 'test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:15:26,462 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:26,463 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:26,463 INFO client Соединение с сервером установлено 
+2022-11-20 20:15:26,463 INFO client Сообщение {'action': 'presence', 'time': 1668964526.463603, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:15:26,463 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50878), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964526.463603, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:26,463 INFO client Запрос отправлен 
+2022-11-20 20:15:26,463 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50878), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:26,966 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50878), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:15:30,393 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:30,393 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:30,394 INFO client Соединение с сервером установлено 
+2022-11-20 20:15:30,394 INFO client Сообщение {'action': 'presence', 'time': 1668964530.3942132, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:15:30,394 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50879), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964530.3942132, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:30,394 INFO client Запрос отправлен 
+2022-11-20 20:15:30,394 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50879), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:15:30,896 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50879), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:15:46,129 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50878), raddr=('127.0.0.1', 7777)>, {'client': 'Guest2', 'mess': 'Test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:18:22,549 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:22,550 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:22,550 INFO client Соединение с сервером установлено 
+2022-11-20 20:18:22,550 INFO client Сообщение {'action': 'presence', 'time': 1668964702.550412, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:18:22,550 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50891), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964702.550412, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:22,550 INFO client Запрос отправлен 
+2022-11-20 20:18:22,550 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50891), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:23,055 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50891), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:18:29,098 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:29,099 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:29,099 INFO client Соединение с сервером установлено 
+2022-11-20 20:18:29,099 INFO client Сообщение {'action': 'presence', 'time': 1668964709.099457, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:18:29,099 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50892), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964709.099457, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:29,099 INFO client Запрос отправлен 
+2022-11-20 20:18:29,099 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50892), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:18:29,604 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50892), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:18:43,350 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50891), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'mess': 'Test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:19:32,745 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:19:32,746 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:19:32,746 INFO client Соединение с сервером установлено 
+2022-11-20 20:19:32,746 INFO client Сообщение {'action': 'presence', 'time': 1668964772.746569, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:19:32,746 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50894), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964772.746569, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:19:32,746 INFO client Запрос отправлен 
+2022-11-20 20:19:32,746 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50894), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:19:33,250 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50894), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:19:49,283 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50894), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test'}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:21:07,210 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:07,210 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:07,210 INFO client Соединение с сервером установлено 
+2022-11-20 20:21:07,210 INFO client Сообщение {'action': 'presence', 'time': 1668964867.210939, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:21:07,211 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50902), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964867.210939, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:07,211 INFO client Запрос отправлен 
+2022-11-20 20:21:07,211 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50902), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:07,714 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50902), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:21:11,056 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:11,056 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:11,057 INFO client Соединение с сервером установлено 
+2022-11-20 20:21:11,057 INFO client Сообщение {'action': 'presence', 'time': 1668964871.057407, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:21:11,057 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50903), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668964871.057407, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:11,057 INFO client Запрос отправлен 
+2022-11-20 20:21:11,057 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50903), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:21:11,561 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50903), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:21:24,788 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50903), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668964884.787798}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:30:11,349 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:11,350 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:11,350 INFO client Соединение с сервером установлено 
+2022-11-20 20:30:11,350 INFO client Сообщение {'action': 'presence', 'time': 1668965411.350465, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:30:11,350 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50934), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965411.350465, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:11,350 INFO client Запрос отправлен 
+2022-11-20 20:30:11,350 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50934), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:11,854 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50934), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:30:16,287 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:16,288 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:16,288 INFO client Соединение с сервером установлено 
+2022-11-20 20:30:16,288 INFO client Сообщение {'action': 'presence', 'time': 1668965416.288426, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:30:16,288 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50935), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965416.288426, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:16,288 INFO client Запрос отправлен 
+2022-11-20 20:30:16,288 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50935), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:30:16,793 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50935), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:30:34,199 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50934), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668965434.1977448}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:34:08,716 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:08,716 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:08,716 INFO client Соединение с сервером установлено 
+2022-11-20 20:34:08,716 INFO client Сообщение {'action': 'presence', 'time': 1668965648.716678, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:34:08,716 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50971), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965648.716678, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:08,716 INFO client Запрос отправлен 
+2022-11-20 20:34:08,716 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50971), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:09,221 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50971), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:34:13,130 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:13,130 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:13,131 INFO client Соединение с сервером установлено 
+2022-11-20 20:34:13,131 INFO client Сообщение {'action': 'presence', 'time': 1668965653.13118, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:34:13,131 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50972), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965653.13118, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:13,131 INFO client Запрос отправлен 
+2022-11-20 20:34:13,131 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50972), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:34:13,634 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50972), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:34:26,460 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50971), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668965666.459417}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:35:34,509 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:34,510 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:34,510 INFO client Соединение с сервером установлено 
+2022-11-20 20:35:34,510 INFO client Сообщение {'action': 'presence', 'time': 1668965734.5103612, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:35:34,510 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50973), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965734.5103612, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:34,510 INFO client Запрос отправлен 
+2022-11-20 20:35:34,510 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50973), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:35,013 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50973), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:35:40,397 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:40,398 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:40,398 INFO client Соединение с сервером установлено 
+2022-11-20 20:35:40,398 INFO client Сообщение {'action': 'presence', 'time': 1668965740.3985431, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:35:40,398 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50974), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668965740.3985431, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:40,398 INFO client Запрос отправлен 
+2022-11-20 20:35:40,398 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50974), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:35:40,901 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50974), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:35:58,313 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50973), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668965758.3125608}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:47:41,442 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:41,442 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:41,443 INFO client Соединение с сервером установлено 
+2022-11-20 20:47:41,443 INFO client Сообщение {'action': 'presence', 'time': 1668966461.443323, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:47:41,443 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51024), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966461.443323, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:41,443 INFO client Запрос отправлен 
+2022-11-20 20:47:41,443 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51024), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:41,947 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51024), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:47:46,078 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:46,078 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:46,078 INFO client Соединение с сервером установлено 
+2022-11-20 20:47:46,078 INFO client Сообщение {'action': 'presence', 'time': 1668966466.078687, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:47:46,078 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51025), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966466.078687, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:46,078 INFO client Запрос отправлен 
+2022-11-20 20:47:46,079 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51025), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:47:46,582 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51025), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:48:11,692 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51024), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668966491.6909802}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:50:59,074 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:50:59,075 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:50:59,075 INFO client Соединение с сервером установлено 
+2022-11-20 20:50:59,075 INFO client Сообщение {'action': 'presence', 'time': 1668966659.075503, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:50:59,075 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51027), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966659.075503, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:50:59,075 INFO client Запрос отправлен 
+2022-11-20 20:50:59,075 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51027), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:50:59,579 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51027), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:51:03,221 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:51:03,221 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:51:03,222 INFO client Соединение с сервером установлено 
+2022-11-20 20:51:03,222 INFO client Сообщение {'action': 'presence', 'time': 1668966663.222154, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:51:03,222 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51028), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966663.222154, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:51:03,222 INFO client Запрос отправлен 
+2022-11-20 20:51:03,222 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51028), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:51:03,725 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51028), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:51:16,414 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51027), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668966676.412889}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:52:58,855 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:52:58,855 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:52:58,855 INFO client Соединение с сервером установлено 
+2022-11-20 20:52:58,855 INFO client Сообщение {'action': 'presence', 'time': 1668966778.855871, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:52:58,856 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51029), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966778.855871, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:52:58,856 INFO client Запрос отправлен 
+2022-11-20 20:52:58,856 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51029), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:52:59,359 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51029), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:53:01,986 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:53:01,986 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:53:01,986 INFO client Соединение с сервером установлено 
+2022-11-20 20:53:01,986 INFO client Сообщение {'action': 'presence', 'time': 1668966781.986898, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:53:01,987 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51030), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668966781.986898, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:53:01,987 INFO client Запрос отправлен 
+2022-11-20 20:53:01,987 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51030), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:53:02,490 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51030), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:53:17,995 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51029), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668966797.9945018}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 20:57:01,607 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:01,607 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:01,607 INFO client Соединение с сервером установлено 
+2022-11-20 20:57:01,607 INFO client Сообщение {'action': 'presence', 'time': 1668967021.607806, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 20:57:01,607 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967021.607806, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:01,608 INFO client Запрос отправлен 
+2022-11-20 20:57:01,608 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:02,112 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:57:06,637 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:06,637 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:06,637 INFO client Соединение с сервером установлено 
+2022-11-20 20:57:06,637 INFO client Сообщение {'action': 'presence', 'time': 1668967026.637941, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 20:57:06,638 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51065), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967026.637941, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:06,638 INFO client Запрос отправлен 
+2022-11-20 20:57:06,638 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51065), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 20:57:07,141 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51065), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 20:57:28,480 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668967048.4795039}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:02:27,569 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:27,569 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:27,570 INFO client Соединение с сервером установлено 
+2022-11-20 21:02:27,570 INFO client Сообщение {'action': 'presence', 'time': 1668967347.570221, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:02:27,570 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51075), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967347.570221, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:27,570 INFO client Запрос отправлен 
+2022-11-20 21:02:27,570 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51075), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:28,074 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51075), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:02:32,018 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:32,019 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:32,019 INFO client Соединение с сервером установлено 
+2022-11-20 21:02:32,019 INFO client Сообщение {'action': 'presence', 'time': 1668967352.019511, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:02:32,019 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51076), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967352.019511, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:32,019 INFO client Запрос отправлен 
+2022-11-20 21:02:32,019 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51076), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:02:32,523 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51076), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:02:47,210 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51075), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668967367.209433}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:09:07,217 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:07,217 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:07,217 INFO client Соединение с сервером установлено 
+2022-11-20 21:09:07,217 INFO client Сообщение {'action': 'presence', 'time': 1668967747.217791, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:09:07,217 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967747.217791, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:07,218 INFO client Запрос отправлен 
+2022-11-20 21:09:07,218 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:07,721 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:09:11,349 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:11,349 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:11,349 INFO client Соединение с сервером установлено 
+2022-11-20 21:09:11,349 INFO client Сообщение {'action': 'presence', 'time': 1668967751.349678, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:09:11,349 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51083), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967751.349678, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:11,349 INFO client Запрос отправлен 
+2022-11-20 21:09:11,350 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51083), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:09:11,853 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51083), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:09:30,325 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51082), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668967770.3245282, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:11:57,066 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:11:57,066 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:11:57,066 INFO client Соединение с сервером установлено 
+2022-11-20 21:11:57,066 INFO client Сообщение {'action': 'presence', 'time': 1668967917.066716, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:11:57,066 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51136), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967917.066716, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:11:57,066 INFO client Запрос отправлен 
+2022-11-20 21:11:57,067 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51136), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:11:57,570 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51136), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:12:24,917 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:12:24,917 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:12:24,918 INFO client Соединение с сервером установлено 
+2022-11-20 21:12:24,918 INFO client Сообщение {'action': 'presence', 'time': 1668967944.918292, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:12:24,918 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51137), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668967944.918292, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:12:24,918 INFO client Запрос отправлен 
+2022-11-20 21:12:24,918 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51137), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:12:25,422 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51137), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:12:38,662 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51136), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668967958.66144, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:14:58,407 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:14:58,407 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:14:58,408 INFO client Соединение с сервером установлено 
+2022-11-20 21:14:58,408 INFO client Сообщение {'action': 'presence', 'time': 1668968098.408191, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:14:58,408 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51157), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968098.408191, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:14:58,408 INFO client Запрос отправлен 
+2022-11-20 21:14:58,408 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51157), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:14:58,912 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51157), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:15:16,150 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:15:16,150 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:15:16,151 INFO client Соединение с сервером установлено 
+2022-11-20 21:15:16,151 INFO client Сообщение {'action': 'presence', 'time': 1668968116.151664, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:15:16,151 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51158), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968116.151664, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:15:16,151 INFO client Запрос отправлен 
+2022-11-20 21:15:16,152 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51158), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:15:16,654 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51158), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:15:38,465 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51157), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668968138.4633548, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:17:17,091 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:17,092 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:17,092 INFO client Соединение с сервером установлено 
+2022-11-20 21:17:17,092 INFO client Сообщение {'action': 'presence', 'time': 1668968237.092459, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:17:17,092 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51215), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968237.092459, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:17,092 INFO client Запрос отправлен 
+2022-11-20 21:17:17,092 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51215), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:17,596 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51215), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:17:37,255 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:37,255 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:37,256 INFO client Соединение с сервером установлено 
+2022-11-20 21:17:37,256 INFO client Сообщение {'action': 'presence', 'time': 1668968257.256093, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:17:37,256 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51217), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968257.256093, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:37,256 INFO client Запрос отправлен 
+2022-11-20 21:17:37,256 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51217), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:17:37,759 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51217), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:17:58,110 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51215), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668968278.109024, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:21:30,775 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:30,775 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:30,775 INFO client Соединение с сервером установлено 
+2022-11-20 21:21:30,775 INFO client Сообщение {'action': 'presence', 'time': 1668968490.775926, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:21:30,776 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51223), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968490.775926, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:30,776 INFO client Запрос отправлен 
+2022-11-20 21:21:30,776 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51223), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:31,280 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51223), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:21:39,157 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:39,157 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:39,158 INFO client Соединение с сервером установлено 
+2022-11-20 21:21:39,158 INFO client Сообщение {'action': 'presence', 'time': 1668968499.1581619, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:21:39,158 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51224), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968499.1581619, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:39,158 INFO client Запрос отправлен 
+2022-11-20 21:21:39,158 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51224), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:21:39,662 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51224), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:21:56,541 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51223), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Test', 'time': 1668968516.540202, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:21:56,701 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51223), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:21:56,701 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51224), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:23:32,616 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:23:32,616 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:23:32,616 INFO client Соединение с сервером установлено 
+2022-11-20 21:23:32,616 INFO client Сообщение {'action': 'presence', 'time': 1668968612.616987, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:23:32,617 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51232), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968612.616987, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:23:32,617 INFO client Запрос отправлен 
+2022-11-20 21:23:32,617 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51232), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:23:33,121 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51232), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:24:30,735 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:24:30,735 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:24:30,735 INFO client Соединение с сервером установлено 
+2022-11-20 21:24:30,735 INFO client Сообщение {'action': 'presence', 'time': 1668968670.735729, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:24:30,735 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51233), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968670.735729, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:24:30,735 INFO client Запрос отправлен 
+2022-11-20 21:24:30,736 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51233), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:24:31,239 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51233), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:25:42,858 INFO log_utils функция addres(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:25:42,858 INFO log_utils функция port_check(['client.py', '-n', 'Guest2']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:25:42,858 INFO client Соединение с сервером установлено 
+2022-11-20 21:25:42,858 INFO client Сообщение {'action': 'presence', 'time': 1668968742.8588831, 'user': {'account_name': 'Guest2'}} сформировано 
+2022-11-20 21:25:42,859 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968742.8588831, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:25:42,859 INFO client Запрос отправлен 
+2022-11-20 21:25:42,859 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:25:43,365 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:26:30,698 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:30,699 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:30,699 INFO client Соединение с сервером установлено 
+2022-11-20 21:26:30,699 INFO client Сообщение {'action': 'presence', 'time': 1668968790.6996858, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:26:30,699 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51235), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968790.6996858, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:30,699 INFO client Запрос отправлен 
+2022-11-20 21:26:30,700 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51235), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:31,203 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51235), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:26:41,131 INFO log_utils функция addres(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:41,131 INFO log_utils функция port_check(['client.py', '-n', 'Guest1']) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:41,131 INFO client Соединение с сервером установлено 
+2022-11-20 21:26:41,131 INFO client Сообщение {'action': 'presence', 'time': 1668968801.1317172, 'user': {'account_name': 'Guest1'}} сформировано 
+2022-11-20 21:26:41,131 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1668968801.1317172, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:41,131 INFO client Запрос отправлен 
+2022-11-20 21:26:41,132 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции main 
+2022-11-20 21:26:41,635 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:26:59,273 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest2', 'message text': 'Here We Are', 'time': 1668968819.271762, 'user': {'account_name': 'Guest1'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:26:59,677 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:26:59,677 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:27:28,643 INFO log_utils функция send_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>, {'action': 'message', 'client': 'Guest1', 'message text': 'We Are here', 'time': 1668968848.641984, 'user': {'account_name': 'Guest2'}}) Вызов из модуля chat_utils.utils. Вызов из функции main(). Вызов из функции message_sender 
+2022-11-20 21:27:28,743 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51234), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
+2022-11-20 21:27:28,743 INFO log_utils функция get_message(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51236), raddr=('127.0.0.1', 7777)>) Вызов из модуля chat_utils.utils. Вызов из функции self._bootstrap_inner(). Вызов из функции receiver_message 
