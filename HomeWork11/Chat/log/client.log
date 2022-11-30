@@ -1,0 +1,50 @@
+2022-11-29 10:59:36,180 INFO client_log_config Лог клиента вроде работает 
+2022-11-29 11:02:05,836 INFO client_log_config Лог клиента вроде работает 
+2022-11-29 17:55:21,367 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 17:56:11,250 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 17:57:20,527 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 17:57:55,811 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 17:59:41,580 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 18:00:08,756 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 18:01:10,315 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 18:01:10,318 INFO client Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 8000, имя пользователя: Guest1 
+2022-11-29 18:01:10,319 DEBUG log_decor Была вызвана функция create_presence c параметрами ('Guest1',) , {}. Вызов из модуля __main__ 
+2022-11-29 18:01:10,319 DEBUG client Сформировано presence сообщение для пользователя Guest1 
+2022-11-29 18:01:10,319 DEBUG log_decor Была вызвана функция send_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51860), raddr=('127.0.0.1', 8000)>, {'action': 'presence', 'time': 1669734070.319433, 'user': {'account_name': 'Guest1'}}) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:01:10,319 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51860), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:01:10,320 DEBUG log_decor Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__ 
+2022-11-29 18:01:10,320 DEBUG client Разбор приветственного сообщения от сервера: {'response': 200} 
+2022-11-29 18:01:10,320 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2022-11-29 18:01:10,320 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51860), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:01:10,320 DEBUG client Запущены процессы 
+2022-11-29 18:02:33,903 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:33,906 INFO client Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 8000, имя пользователя: Guest2 
+2022-11-29 18:02:33,907 DEBUG log_decor Была вызвана функция create_presence c параметрами ('Guest2',) , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:33,907 DEBUG client Сформировано presence сообщение для пользователя Guest2 
+2022-11-29 18:02:33,907 DEBUG log_decor Была вызвана функция send_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51861), raddr=('127.0.0.1', 8000)>, {'action': 'presence', 'time': 1669734153.9071739, 'user': {'account_name': 'Guest2'}}) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:33,907 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51861), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:34,410 DEBUG log_decor Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:34,410 DEBUG client Разбор приветственного сообщения от сервера: {'response': 200} 
+2022-11-29 18:02:34,410 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2022-11-29 18:02:34,411 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51861), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:34,411 DEBUG client Запущены процессы 
+2022-11-29 18:02:53,975 DEBUG log_decor Была вызвана функция arg_parser c параметрами () , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:53,978 INFO client Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 8000, имя пользователя: Guest3 
+2022-11-29 18:02:53,979 DEBUG log_decor Была вызвана функция create_presence c параметрами ('Guest3',) , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:53,979 DEBUG client Сформировано presence сообщение для пользователя Guest3 
+2022-11-29 18:02:53,979 DEBUG log_decor Была вызвана функция send_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51862), raddr=('127.0.0.1', 8000)>, {'action': 'presence', 'time': 1669734173.9794009, 'user': {'account_name': 'Guest3'}}) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:53,979 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51862), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:53,980 DEBUG log_decor Была вызвана функция process_response_ans c параметрами ({'response': 200},) , {}. Вызов из модуля __main__ 
+2022-11-29 18:02:53,980 DEBUG client Разбор приветственного сообщения от сервера: {'response': 200} 
+2022-11-29 18:02:53,980 INFO client Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2022-11-29 18:02:53,980 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51862), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:02:53,980 DEBUG client Запущены процессы 
+2022-11-29 18:03:23,751 DEBUG client Сформирован словарь сообщения: {'action': 'message', 'from': 'Guest3', 'to': 'Guest1', 'time': 1669734203.750914, 'mess_text': 'Test'} 
+2022-11-29 18:03:23,751 DEBUG log_decor Была вызвана функция send_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51862), raddr=('127.0.0.1', 8000)>, {'action': 'message', 'from': 'Guest3', 'to': 'Guest1', 'time': 1669734203.750914, 'mess_text': 'Test'}) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:03:23,752 INFO client Отправлено сообщение для пользователя Guest1 
+2022-11-29 18:03:24,050 INFO client Получено сообщение от пользователя Guest3:
+Test 
+2022-11-29 18:03:24,050 DEBUG log_decor Была вызвана функция get_mess c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51860), raddr=('127.0.0.1', 8000)>,) , {}. Вызов из модуля utilites.utils 
+2022-11-29 18:03:48,015 CRITICAL client Потеряно соединение с сервером. 
+2022-11-29 18:03:48,015 CRITICAL client Потеряно соединение с сервером. 
+2022-11-29 18:03:48,015 CRITICAL client Потеряно соединение с сервером. 
