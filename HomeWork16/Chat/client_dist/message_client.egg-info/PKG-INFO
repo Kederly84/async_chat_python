@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: message-client
+Version: 1.0
+Summary: client_for_messenger
+Author: Aleksandr
+Author-email: django@django.ru

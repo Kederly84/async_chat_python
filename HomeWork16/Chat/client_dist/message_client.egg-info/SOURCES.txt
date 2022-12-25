@@ -1,0 +1,7 @@
+setup.py
+message_client.egg-info/PKG-INFO
+message_client.egg-info/SOURCES.txt
+message_client.egg-info/dependency_links.txt
+message_client.egg-info/requires.txt
+message_client.egg-info/top_level.txt
+src/client.py
